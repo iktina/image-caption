@@ -12,6 +12,11 @@ The service generates a text description for the image using machine learning te
 
 The user must provide `the path to the image` to which the scene description needs to be created.
 
+inputs:
+
+* `mothod`: ofa_caption
+* `input_data`: image
+
 ## Expected result
 
 ### Input
