@@ -1,4 +1,4 @@
-# Image Caption
+# Image Captioning
 
 ## Welcome
 
